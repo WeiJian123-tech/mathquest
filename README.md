@@ -4,7 +4,7 @@ A math game that enables the player to solve addition, subtraction, multiplicati
 
 ## Executing the program
 
-### Opening from the executable program:
+### Opening from the executable program
 
 ``` python
 ./main
